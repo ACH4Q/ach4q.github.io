@@ -1,6 +1,7 @@
 ---
+layout : post
 title: "Rootkits in Disguise? The Truth About Kernel Anti-Cheat Software"
-date: 2025-08-02
+date: 2025-08-01 19:00:00 +0100
 author: "ACH4Q"
 tags: ["gaming", "security", "anti-cheat"]
 ---
