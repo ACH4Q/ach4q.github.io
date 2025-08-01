@@ -17,6 +17,8 @@ So, I asked myself: What exactly is an anti-cheat, and how does it work?
 
 Turns out, there are two main types:
 
+![Alt text describing the image](https://static.wixstatic.com/media/bad31a_4a5a413314614df0be7deb3f1925953b~mv2.png/v1/fill/w_560,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bad31a_4a5a413314614df0be7deb3f1925953b~mv2.png)
+
 ### User-Level Anti-Cheats (Ring 3)
 
 These programs run in the background when you launch a game, with the same privileges as any normal application (like your web browser). Their job is to:
