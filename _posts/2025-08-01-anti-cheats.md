@@ -4,6 +4,7 @@ title: "Rootkits in Disguise? The Truth About Kernel Anti-Cheat Software"
 date: 2025-08-01
 author: "ACH4Q"
 tags: ["gaming", "security", "anti-cheat"]
+draft: false
 ---
 
 # Rootkits in Disguise? The Truth About Kernel Anti-Cheat Software
