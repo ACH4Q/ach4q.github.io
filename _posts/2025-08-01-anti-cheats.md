@@ -60,6 +60,8 @@ Easy Anti-Cheat (EAC) (Apex Legends, Elden Ring) – HWID bans.
 . 0% Privacy concerns (can scan everything, even unrelated processes).
 The Big Question: Is This a Fair Trade ?
 
+![alt text](image.png)
+
 ### Kernel anti-cheats work, but at what cost?
 
 1. They're Literally Rootkits (But Legal way as they are promoted to be)
