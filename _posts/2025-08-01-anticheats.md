@@ -2,10 +2,10 @@
 title: "Rootkits in Disguise? The Truth About Kernel Anti-Cheat Software"
 date: 2025-08-02
 author: "Your Name"
-tags: ["gaming", "security", "anti-cheat", "kernel", "privacy"]
-categories: ["Technology"]
+tags: ["video games" ,"gaming", "security", "anti-cheat", "kernel", "privacy"]
+categories: ["Cyber Security"]
 draft: false
-description: "How kernel-level anti-cheat systems work, their risks, and whether they're worth the trade-off for fair gameplay."
+description: "How kernel-level anti-cheat systems work, their risks, and whether they're worth the trade for fair gameplay."
 ---
 
 # Rootkits in Disguise? The Truth About Kernel Anti-Cheat Software
