@@ -35,6 +35,7 @@ and Lower security risk (can't be easily exploited by malware).
 **But in the opposite side** 
  Easier for cheaters to bypass (many hacks run at kernel level).
 
+![Alt text describing the image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/1200px-Priv_rings.svg.png)
 ### Kernel-Level Anti-Cheats (Ring 0)
 
 These are far more powerful—and far more invasive. They load at system boot, sometimes even before Windows itself, giving them unrestricted access to:
