@@ -3,7 +3,7 @@ layout : post
 title: "The Reality of Anti-cheats"
 date: 2025-08-01
 author: "ACH4Q"
-tags: ["gaming", "security", "anti-cheat"]
+tags: ["security", "anti-cheat"]
 draft: false
 ---
 
