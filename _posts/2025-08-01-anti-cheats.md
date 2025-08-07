@@ -22,15 +22,12 @@ Turns out, there are two main types:
 ### User-Level Anti-Cheats (Ring 3)
 
 These programs run in the background when you launch a game, with the same privileges as any normal application (like your web browser). Their job is to:
- .Scan game files for tampering.
-. Monitor player behavior 
-. Check running processes for cheat tools like Cheat Engine or debuggers
+ Scan game files for tampering Monitor player behavior Check running processes for cheat tools like Cheat Engine or debuggers
 
 Examples: Dota 2 or oldest games of CS
 
 **so user level anticheats do** 
- a Less intrusive doesn't require deep system access.
-and Lower security risk (can't be easily exploited by malware).
+ a Less intrusive doesn't require deep system access and Lower security risk (can't be easily exploited by malware).
 
 **But in the opposite side** 
  Easier for cheaters to bypass (many hacks run at kernel level).
@@ -38,10 +35,7 @@ and Lower security risk (can't be easily exploited by malware).
 ![Alt text describing the image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priv_rings.svg/1200px-Priv_rings.svg.png)
 ### Kernel-Level Anti-Cheats (Ring 0)
 
-These are far more powerful—and far more invasive. They load at system boot, sometimes even before Windows itself, giving them unrestricted access to:
-. All memory (not just the game's).
-. Hardware devices (USB, PCIe slots).
-. Other drivers (can block or modify them).
+These are far more powerful—and far more invasive. They load at system boot, sometimes even before Windows itself, giving them unrestricted access to: All memory (not just the game's) Hardware devices (USB, PCIe slots) Other drivers (can block or modify them).
 
 Examples:
 
