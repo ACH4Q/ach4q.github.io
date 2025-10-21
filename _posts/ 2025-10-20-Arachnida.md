@@ -1,12 +1,12 @@
 ---
-layout: post
-title: Deep Dive into Web Scraping and Metadata Analysis
-date: 2025-10-20 12:00:00
-description: A Deep Dive into Web Scraping and Metadata Analysis
+layout : post
+title: "A Deep Dive into Web Scraping and Metadata Analysis"
+date: 2025-08-01
 author: "ACH4Q"
 tags: [ "Cybersecurity", "python"]
 draft: false
 ---
+
 # Building Arachnida: A Deep Dive into Web Scraping and Metadata Analysis
 
 In the world of cybersecurity, our mantra is that data is everywhere. Every action we take online, every photo we share, and every website we build leaves a digital footprint. Understanding how to gather and interpret this data is a foundational skill, whether you're performing Open-Source Intelligence (OSINT) reconnaissance or securing your own digital assets.
