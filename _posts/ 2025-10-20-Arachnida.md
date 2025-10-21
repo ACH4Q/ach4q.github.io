@@ -1,13 +1,10 @@
 ---
 layout: post
 title: Deep Dive into Web Scraping and Metadata Analysis
-date: 2025-10-20 12:00:00 +0100
-categories:
-  - Cybersecurity
+date: 2025-10-20 12:00:00
 description: A Deep Dive into Web Scraping and Metadata Analysis
-layout : post
 author: "ACH4Q"
-tags: [ "Cybersecurity", "python","coding"]
+tags: [ "Cybersecurity", "python"]
 draft: false
 ---
 # Building Arachnida: A Deep Dive into Web Scraping and Metadata Analysis
