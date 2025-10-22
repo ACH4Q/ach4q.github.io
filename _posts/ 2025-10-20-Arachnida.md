@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Deep Dive into Web Scraping and Metadata Analysis"
-date: 2025-08-01
+date: 2025-10-10
 author: "ACH4Q"
 tags: ["Cybersecurity", "python"]
 draft: false
