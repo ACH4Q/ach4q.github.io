@@ -157,4 +157,3 @@ Together, they form the Arachnida project—a small but potent reminder that the
 
 You can find the complete source code for this project on my [GitHub repository](https://github.com/ACH4Q/Arachnida). Feel free to clone the repository, experiment with the code, and see what you can uncover.
 
----
