@@ -20,7 +20,7 @@ Normal computers work in bits, a representation where tiny switches are either O
 However, quantum computers operate in a world of possibilities. They use qubits that have other principles, such as:
 
 ### Superposition: The "Both at Once" Principle
-![Alt text describing the image](./assets/images/Q/superposition.png)
+![Alt text describing the image](../assets/images/Q/superposition.png)
 
 A qubit isn't just a 0 or a 1; it can be a combination of both states simultaneously. It sounds illogical, right? But this is Superposition. The classic analogy is a spinning coin. While it's in the air, it's neither heads nor tails; it's a superposition of both. Only when it lands—when we measure it—does it get a definitive state.
 
@@ -33,7 +33,7 @@ To be more clear about superposition, it's very fragile. The slightest interacti
 When a qubit decoheres, any calculation it was part of is ruined. This loss of "quantumness" is the single biggest engineering challenge in building a large, stable quantum computer. Much of the work in the field is dedicated to creating better error-correction and shielding qubits from the environment.
 
 ## The Cryptographic Target: RSA Encryption
-![Alt text describing the image](./assets/images/Q/rsa.png)
+![Alt text describing the image](../assets/images/Q/rsa.png)
 
 So how does this new form of computing threaten our security? The primary target is Public-Key Cryptography, with the most famous example being the RSA algorithm.
 
@@ -50,7 +50,7 @@ The RSA Algorithm rests on a simple fact:
 Multiplying those two primes is easy, but factoring the giant result back into the two original primes is impossibly hard for a classical computer. For a key of standard length (2048 bits), the number of operations required is so vast that it would take the world's most powerful supercomputer trillions of years to break it.
 
 ### The New Weapon: Shor's Algorithm
-![Alt text describing the image](./assets/images/Q/shor.png)
+![Alt text describing the image](../assets/images/Q/shor.png)
 
 Back in 1994, a mathematician named Peter Shor devised a quantum algorithm that completely demolishes the RSA algorithm.
 
